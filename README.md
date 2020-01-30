@@ -1,1 +1,1 @@
-This is Milosz's first git project! 123
+This is Milosz's first git project!
